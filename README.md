@@ -1,1 +1,1 @@
-# SLAM-Project
+For part one of the project, we utilized the TUM RGB-D benchmark dataset, providing a diverse range of scenes captured within an office environment. By exploring the dataset's accompanying webpage, I gained insights into the implementation of Visual-SLAM. In part two I used images from a room of my choice to aquire a dataset of the enviorment and the camera's trajectory. In the end the goal was to become familair with applications of SLAM by using applications such as map initialization, tracking, local mapping, and loop closure.
